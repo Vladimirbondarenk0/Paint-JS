@@ -1,2 +1,7 @@
-# 1course-JS
-Курс по основам javaSicript
+# paint-JS
+
+Cloning Paint in the Browser
+
+- JavaSicript
+- HTML
+- CSS
