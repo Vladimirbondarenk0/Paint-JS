@@ -1,6 +1,7 @@
-# paint-JS
+# Paint-JS
 
-Cloning Paint in the Browser
+## Cloning Paint in the Browser
+
 
 - JavaSicript
 - HTML
